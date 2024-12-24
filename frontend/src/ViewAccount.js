@@ -45,7 +45,7 @@
 //   };
 
 // const names=async()=>{
-//   const response1 = await fetch("http://localhost:5000/get_name", {
+//   const response1 = await fetch("https://bank-fy2s.onrender.com/get_name", {
 //     method: "POST",
 //     headers: {
 //       "Content-Type": "application/json",
@@ -63,7 +63,7 @@
 
 //     if (validateForm()) {
 //       try {
-//         const response = await fetch("http://localhost:5000/get_details", {
+//         const response = await fetch("https://bank-fy2s.onrender.com/get_details", {
 //           method: "POST",
 //           headers: {
 //             "Content-Type": "application/json",
